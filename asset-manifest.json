@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/D-Koder/app.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/D-Koder/app.github.io/static/js/main.ab87231d.js",
+    "static/js/453.3bfd3fa9.chunk.js": "/D-Koder/app.github.io/static/js/453.3bfd3fa9.chunk.js",
+    "index.html": "/D-Koder/app.github.io/index.html",
+    "main.f855e6bc.css.map": "/D-Koder/app.github.io/static/css/main.f855e6bc.css.map",
+    "main.ab87231d.js.map": "/D-Koder/app.github.io/static/js/main.ab87231d.js.map",
+    "453.3bfd3fa9.chunk.js.map": "/D-Koder/app.github.io/static/js/453.3bfd3fa9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ab87231d.js"
+  ]
+}
